@@ -1,0 +1,7 @@
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\bin\Debug\collectionsContainersAndClasses.exe.config
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\bin\Debug\collectionsContainersAndClasses.exe
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\bin\Debug\collectionsContainersAndClasses.pdb
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\obj\Debug\collectionsContainersAndClasses.csprojAssemblyReference.cache
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\obj\Debug\collectionsContainersAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\obj\Debug\collectionsContainersAndClasses.exe
+C:\Users\wight\source\repos\collectionsContainersAndClasses\collectionsContainersAndClasses\obj\Debug\collectionsContainersAndClasses.pdb
